@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, ben 11001or100111</h1>
 <h3 align="center">Cyber Sec and software with interested ordinary a Türkish someone</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=11001or100111&label=Profile%20views&color=0e75b6&style=flat" alt="11001or100111" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=11001or100111&label=Profile%20views&color=0e75b6&style=flat" alt="l1sec" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=11001or100111" alt="11001or100111" /></a> </p>
 
