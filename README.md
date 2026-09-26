@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11001or100111&label=Profile%20views&color=0e75b6&style=flat" alt="l1sec" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=11001or100111" alt="11001or100111" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l1secc" alt="l1sec" /></a> </p>
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
@@ -17,8 +17,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p><img hizala="sol" src="https://github-readme-stats.vercel.app/api/top-langs?username=11001or100111&show_icons=true&locale=tr&layout=compact" alt="11001or100111" /></p>
+<p><img hizala="sol" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1secc&show_icons=true&locale=tr&layout=compact" alt="l1sec" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=11001or100111&show_icons=true&locale=tr" alt="11001or100111" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=l1secc&show_icons=true&locale=tr" alt="l1sec" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=11001or100111&" alt="11001or100111" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l1secc&" alt="l1sec" /></p>
