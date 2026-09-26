@@ -1,22 +1,15 @@
-<h1 align="center">Merhaba 👋, ben 11001or100111</h1>
-<h3 align="center">Cyber Sec and software with interested ordinary a Türkish someone</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=11001or100111&label=Profile%20views&color=0e75b6&style=flat" alt="l1sec" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/l1sec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulkerem-demir-339262316) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/l1secc) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l1secc" alt="l1sec" /></a> </p>
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=l1secc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=l1secc&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=l1secc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-<a href="#" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="LinkedIn Profile" height="30" width="40" />
-</a>
-<a href="https://instagram.com/l1sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l1sec" height="30" width="40" /></a>
+---
+[![](https://komarev.com/ghpvc/?username=l1secc&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<p><img hizala="sol" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1secc&show_icons=true&locale=tr&layout=compact" alt="l1sec" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=l1secc&show_icons=true&locale=tr" alt="l1sec" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l1secc&" alt="l1sec" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
